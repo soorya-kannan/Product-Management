@@ -1,0 +1,110 @@
+﻿@page "/product/create"    
+@page "/product/edit/{productId:int}"   
+
+@inject ProductService ProductService
+@inject NavigationManager Navigation
+
+<PageTitle>@(productId == null ? "Create Product" : "Edit Product")</PageTitle>
+
+<h3>@(productId == null ? "Create Product" : "Edit Product")</h3>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <div class="alert alert-success">@successMessage</div>
+}
+
+<EditForm Model="product" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <InputText class="form-control" @bind-Value="product.Name" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Description</label>
+        <InputText class="form-control" @bind-Value="product.Description" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Stock Quantity</label>
+        <InputNumber class="form-control" @bind-Value="product.StockQuantity" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Price</label>
+        <InputNumber class="form-control" @bind-Value="product.Price" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">@((productId == null) ? "Save" : "Update")</button>
+    <button type="button" class="btn btn-secondary" @onclick="NavigateBack">Back to List</button>
+</EditForm>
+
+@code {
+    private Product product = new();
+    private string? errorMessage;
+    private string? successMessage;
+
+    [Parameter] public int? productId { get; set; }  // Make sure the productId is nullable
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (productId != null)
+        {
+            // If productId is not null, load the product for editing
+            await LoadProductForEdit();
+        }
+    }
+
+    private async Task LoadProductForEdit()
+    {
+        try
+        {
+            if (productId.HasValue)
+            {
+                // Ensure the productId is not null when trying to load it
+                product = await ProductService.GetProductByIdAsync(productId.Value);
+            }
+        }
+        catch (Exception ex)
+        {
+            errorMessage = "Failed to load product for editing.";
+            Console.Error.WriteLine(ex.Message);
+        }
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            if (productId == null)
+            {
+                // Create new product
+                await ProductService.CreateProductAsync(product);
+                successMessage = "Product created successfully!";
+            }
+            else
+            {
+                // Update existing product
+                await ProductService.UpdateProductAsync(product);
+                successMessage = "Product updated successfully!";
+            }
+            Navigation.NavigateTo("/products");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = "Failed to save product.";
+            Console.Error.WriteLine(ex.Message);
+        }
+    }
+
+    private void NavigateBack()
+    {
+        Navigation.NavigateTo("/products");
+    }
+}

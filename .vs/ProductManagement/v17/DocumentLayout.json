@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Interview Assignment\\ProductManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\product\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\product\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\product\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\product\\list.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.blazor\\productmanagement.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C767ABC9-D136-48F5-8005-6FD1AD677C91}|ProductManagement.Blazor\\ProductManagement.Blazor.csproj|solutionrelative:productmanagement.blazor\\productmanagement.blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\dto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|d:\\project\\interview assignment\\productmanagement.api\\productmanagement.api\\migrations\\20250417165204_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}|ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:productmanagement.api\\migrations\\20250417165204_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductManagement.Blazor\\Services\\ProductService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAtwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:24:24.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:50:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Data\\WeatherForecast.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "ProductManagement.Blazor\\Data\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:57:31.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Data\\Product.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Data\\Product.cs",
+              "RelativeToolTip": "ProductManagement.Blazor\\Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:58:09.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Product\\Create.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\Product\\Create.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Product\\Create.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\Product\\Create.razor",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T02:31:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\App.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\App.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\App.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:50:28.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T03:18:48.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:51:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Product\\List.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\Product\\List.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Product\\List.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\Product\\List.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:52:32.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\Index.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Index.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T02:56:17.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\_Layout.cshtml",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:51:38.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T03:04:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ProductManagement.Blazor\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-18T02:19:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\FetchData.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\FetchData.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:49:13.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\_Imports.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\_Imports.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\_Imports.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:50:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T02:34:19.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Pages\\Counter.razor",
+              "RelativeToolTip": "ProductManagement.Blazor\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T01:51:38.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductManagement.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:03:45.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagement.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:54:42.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductManagement.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:10:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Program.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Program.cs",
+              "RelativeToolTip": "ProductManagement.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:46:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Program.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Program.cs",
+              "RelativeToolTip": "ProductManagement.Blazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:55:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\Data\\WeatherForecastService.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "ProductManagement.Blazor\\Data\\WeatherForecastService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:57:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Models\\Product.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagement.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:11:50.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\DTO\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\DTO\\ProductCreateDto.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\DTO\\ProductCreateDto.cs",
+              "RelativeToolTip": "ProductManagement.API\\DTO\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:57:52.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\appsettings.json",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\appsettings.json",
+              "RelativeToolTip": "ProductManagement.Blazor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T01:46:49.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductManagement.Blazor.csproj",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\ProductManagement.Blazor.csproj",
+              "RelativeDocumentMoniker": "ProductManagement.Blazor\\ProductManagement.Blazor.csproj",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.Blazor\\ProductManagement.Blazor.csproj",
+              "RelativeToolTip": "ProductManagement.Blazor\\ProductManagement.Blazor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T01:46:29.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductManagement.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:02:57.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\DTO\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\DTO\\ProductUpdateDto.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\DTO\\ProductUpdateDto.cs",
+              "RelativeToolTip": "ProductManagement.API\\DTO\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:58:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ProductManagement.API\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:03:39.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250417165204_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Migrations\\20250417165204_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductManagement.API\\Migrations\\20250417165204_InitialCreate.cs",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\Migrations\\20250417165204_InitialCreate.cs",
+              "RelativeToolTip": "ProductManagement.API\\Migrations\\20250417165204_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:52:04.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagement.API\\appsettings.json",
+              "ToolTip": "D:\\Project\\Interview Assignment\\ProductManagement.API\\ProductManagement.API\\appsettings.json",
+              "RelativeToolTip": "ProductManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T16:49:29.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

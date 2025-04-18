@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagement.API", "ProductManagement.API\ProductManagement.API.csproj", "{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagement.Blazor", "ProductManagement.Blazor\ProductManagement.Blazor.csproj", "{C767ABC9-D136-48F5-8005-6FD1AD677C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259C68AB-81A1-438B-B5D1-33CB70B1CBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C767ABC9-D136-48F5-8005-6FD1AD677C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C767ABC9-D136-48F5-8005-6FD1AD677C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C767ABC9-D136-48F5-8005-6FD1AD677C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C767ABC9-D136-48F5-8005-6FD1AD677C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95206AFE-A597-4426-B92A-92D14F34E9F5}
+	EndGlobalSection
+EndGlobal
